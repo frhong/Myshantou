@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Dansuao - Yen"s hot spring'
+author: 'Maggie Ad'
+image: ''
+categories: ['Fun place', '未分类']
+tags: []
+---
+
+On Monday I went to my friend Yen's hot spring resort, actually it's not his, it's his friend's, but hey whatever.  It's called Dansuao Hotspring Resort and it's in the countryside between Shantou, Chaozhou and Jieyang.  I met Yen in an internet cafe in November last year when he was trying to read my e-mails.  He was here helping his friend build the resort from well, scratch, when I went up to have a look it was just a big building site.  I like the story behind the resort.
+
+Yen's from Singapore, as is his friend Mark.  They're both 3rd generation Chinese immigrants. Mark's grandad is from the village next to where the resort now is, in fact he has a road named after him because he emigrated to Singapore, became ridiculously rich, and contributed lots to his home town (this seems to be the tradition among Chinese expats). He bought a piece of land next to the village which just happened to have a hot spring underneath it. He then bequeathed said land to son and grandson and got them to promise to develop it for the general good of the area. Which is what they have done - well, Mark's the one who lives there and does everything - the resort itself is totally luxurious, health-orientated, the like, and expensive at that, so this brings trade and employment to the local villages. The target market is the three sounding towns/cities, but others always welcome, they plan to have Japanese and Hong Kongers come through sometimes.
+
+I've been to the resort a few times over the past year but this was the first time to go in the water, there are about 100 little pools altogether all with different temperatures. It was really quite coz it was Monday daytime so everyone was at work and it's only just opened anyway. They give you a cup of water and fold your towel every time you go to a new pool if they can find you. The top one is really hot, 39 degrees. They say the water is good for your skin, well mine and my friend Jonny's scabs all fell off and scars looked nicer, it was very clever. Did you know they empty all the pools every night and fill them every morning. That's a lot of water. Yen says they don't pump it up, they just take the natural flow, this way it stays sustainable.
+
+The scenery I also really love, there are mountains (well, hills) and it's nice clean air and just really Relaxing and chilled out. The hotel is nice too but pricey, everything is new and the staff fall over themselves to be nice, even if they get confused a lot. I especially like the hill behind the hot spring, there's a piece of history on top, a Japanese artillery post from the Japanese occupation. It covered all the surroundig countryside, must have been a big gun. I wonder what life was like back then. Yeah so it's nice. 
+
+？山湖温泉度假村：潮安东山湖（515642) Dansuao Hotspring Resort: Chaoan, Dongshanhu (515642) Dansuao wen1quan2 du4jia4cun1: chao2an1, dong1shan1hu2 Phone: 0768-5215888 (lines open 15.00-01.00) www.dansuao.com Resort is open 10am-2am daily. The easiest way to get there is a 50rmb taxi (negotiate), but you can also catch the bus to Chaozhou (10rmb) and tell them to let you off at Jin1shi2 (金石). This is a lonly-looking junction but 3-wheeled-motorbike men will appear and it costs about 15rmb to the resort. Bumpy but interesting coz it's the local area. Hot spring, massage (full body and foot), Chinese and Western restaurants.

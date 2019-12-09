@@ -1,0 +1,52 @@
+encoding: utf-8
+
+# 站点信息
+title: 'East'
+description: 'Minimal and Clean Blog Jekyll Theme'
+copyright: '© 2018 East'
+keywords: 'East,Jekyll,Theme'
+email: demo@qq.com
+github: https://github.com
+twitter: https://twitter.com
+
+# 根路径 && 绝对路径
+domain: http://east.page404.cn
+baseurl: ''
+
+# 分页
+paginate: 12
+paginate_path: '/page:num/'
+
+# Tags
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: pretty
+
+# 文章配置
+permalink: /:year/:month/:day/:title.html
+kramdown:
+  auto_ids: true
+  input: GFM
+
+# 菜单配置
+menu:
+  - title: Category
+    url: /pages/category.html
+  - title: About
+    url: /pages/about.html
+  - title: RSS
+    url: /rss.xml
+
+# 构建配置，勿动！！！
+plugins:
+  - jekyll-paginate
+  - jekyll/tagging
+exclude:
+  - CNAME
+  - README.MD
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - bin_deploy.bat
+  - bin_install.bat
+  - bin_start.bat

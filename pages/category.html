@@ -1,0 +1,24 @@
+---
+layout: page
+title: Category
+---
+
+<div class="category-head"> 
+  <h2>Posts By Category</h2>
+  {% for category in site.categories %}
+  <span>{{ category[0] }}</span>
+  {% endfor %}
+</div>
+<div class="category-list">
+  {% for category in site.categories %}
+  <ul data-key="{{category[0]}}">
+    <h3>{{ category[0] }}</h3>
+    {% for post in category[1] %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <span>{{post.date | date: '%b %d, %Y'}}</span>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>

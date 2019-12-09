@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Shantou orphanage & Love Without Boundaries'
+author: 'Maggie Ad'
+image: ''
+categories: ['Living in ST', 'Shantouer', '未分类']
+tags: []
+---
+
+I teach at Shantou orphanage once a week, the school-attending students, English - well it's more like tutoring these days, but anyway.  The point is, Shantou orphanage is the recipient of quite a lot of help from an American foundation called Love Without Boundaries (爱心无国界基金会) [www.lovewithoutboundaries.com](http://www.lovewithoutboundaries.com/), which was started after a lady called Amy came to adopt a child from here and felt strongly for the need to improve conditions for the children resident at the orphanage.  According to the bossman, she told them to get their stuff ready, she was going to go home and sort something out.  Bossman didn't really take the promise seriously until two weeks later she phoned up saying she had money and surgeons and were they ready yet?
+
+I'm not sure how accurate that it is but from what I can gather, it did start with providing medical treatment such as heart surgery, fixing cleft lips and sorting out limbs, and, well, word seemed to have got around and more and more orphanages asked for help in more and more areas of care and now they're in (I think) several hundred orphanages throughout China, offering free medical treatment, improving material conditions in orphanages, and now organising foster care projects.  Non-Chinese staff of the foundation without exception work without salary (and some do it full time), I think in China they have about nine salaried staff, that's of course not counting foster parents who come under the management of orphanages.
+
+The reason I'm saying all this is because my students think Amy is absolutely wonderful and talk about her all the time.  So when they said she was coming this week I told them to let me know when so I could meet her too.  Then I thought Dr Huang, the head doctor in Shantou orphanage, might have a better idea of the exact time, which he did, in fact he asked if I wanted to go with him to the airport to be interpreter.  Which I did want, so I went, the bossman of the orphanage went too. 
+
+And she is really cool!  She feels really strongly about all orphans but has a special relationship with Shantou, I guess it's where she started.  It's fascinating work that's being done, it really is.  The foundation wants to set up a centre for cleft lip children where they can be operated on (for free, naturally), and receive special care (many cleft lip babies get malnourished because they can't eat properly) until they are strong enough to be fostered in preparation for adoption.  The centre would also be in or close to a rural area so that work can be started to tackle the myths that surround cleft babies in the countryside.  This together with the treatment available would hopefully mean that parents of cleft babies could be told about the centre before abandoning their child, send the child to have the necessary treatment and then be returned to them, to continue a normal life.  The idea is that there should eventually be one centre in every province, this way any cleft baby born in China could be sent for treatment as soon as possible.  Now that's amazing.  They're trying to decide now whether to have the first one in Shantou or in a place in Anhui.  I reckon they should do both!
+
+On Mon eve there was a dinner with the bossman of civil affairs, I've forgotten the right term, anyway it was at Xin Mei Yuan (新梅园) and the food was great.  Still, the stuff about Love Without Boundaries is the really interesting stuff.

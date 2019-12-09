@@ -1,0 +1,27 @@
+<div class="sidebar">
+  <a class="sidebar__title" href="{{site.baseurl}}/" ondragstart="return false;">
+    <img src="{{site.baseurl}}/assets/img/logo.png" alt="{{ site.title }}">
+  </a>
+  <div class="sidebar__description">{{ site.description }}</div>
+  <div class="sidebar__toggle">
+    <span data-icon="ei-navicon"></span>
+  </div>
+  <div class="off-canvas-content">
+    <ul class="menu">
+      {% for item in site.menu %}
+      <li>
+        <a href="{{item.url | prepend: site.baseurl}}">{{item.title}}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    <div class="social">
+      <a href="{{site.github}}" target="_blank"><div data-icon="ei-sc-github"></div></a>
+      <a href="{{site.twitter}}" target="_blank"><div data-icon="ei-sc-twitter"></div></a>
+      <a href="mailto:{{site.email}}"><div data-icon="ei-envelope"></div></a>
+      <a href="javascript:void(0);" id="search"><div data-icon="ei-search"></div></a>
+    </div>
+    <div class="copyright">
+      {{site.copyright}}
+    </div>
+  </div>
+</div>
