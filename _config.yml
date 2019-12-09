@@ -21,7 +21,7 @@ paginate_path: '/page:num/'
 tag_page_dir: tag
 tag_page_layout: tag_page
 tag_permalink_style: pretty
-
+destination: docs
 # 文章配置
 permalink: /:year/:month/:day/:title.html
 kramdown:
