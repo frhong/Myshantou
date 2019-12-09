@@ -1,7 +1,7 @@
 encoding: utf-8
 
 # 站点信息
-title: 'East'
+title: 'Myshantou.net'
 description: 'Minimal and Clean Blog Jekyll Theme'
 copyright: '© 2018 East'
 keywords: 'East,Jekyll,Theme'
@@ -10,7 +10,7 @@ github: https://github.com
 twitter: https://twitter.com
 
 # 根路径 && 绝对路径
-domain: http://east.page404.cn
+domain: https://myshantou.net
 baseurl: ''
 
 # 分页
