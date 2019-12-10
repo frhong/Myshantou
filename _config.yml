@@ -2,12 +2,11 @@ encoding: utf-8
 
 # 站点信息
 title: 'Myshantou.net'
-description: 'Minimal and Clean Blog Jekyll Theme'
-copyright: '© 2018 East'
-keywords: 'East,Jekyll,Theme'
+description: 'Stories from Shantou, China'
+copyright: '© 2005 - 2019 Myshantou'
+keywords: 'Myshantou,Shantou'
 email: demo@qq.com
-github: https://github.com
-twitter: https://twitter.com
+twitter: https://twitter.com/myshantou
 
 # 根路径 && 绝对路径
 domain: https://myshantou.net
