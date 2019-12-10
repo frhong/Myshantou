@@ -6,7 +6,7 @@ image: '/images/2016/04/Grave_Sangpu.jpeg'
 categories: ['Society']
 tags: ['environment', 'graves', 'land', 'QingMing', 'tradition']
 ---
-
+<!-- Done -->
 _By Huang Pei’dan & Liang Yaoxiang_
 
 Half way up the Sang Pu Mountain, the silence in the humid air was broken by a blast of drilling. With a drilling tool that was almost half of his height, a middle-aged straw-hat-wearing man was trying to make a hole in a rock and break it into two. Around him stood another five or six men, each wielding construction tools, either digging into the sand or moving the stones. The area they had cleared was approximately as big as half a tennis court. On one side of it there was already a Chaoshan traditional style grave; on the other, a new one was seemingly under construction.

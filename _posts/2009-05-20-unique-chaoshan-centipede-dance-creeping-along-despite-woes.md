@@ -1,25 +1,22 @@
 ---
 layout: post
 title: 'Unique Chaoshan Centipede Dance Creeping Along Despite Woes'
-author: 'Catherine'
-image: '/images/2016/02/Capture.png'
-categories: ['Culture', 'shantou highlight', '未分类']
+author: 'Catherine Lee and Zhang Xiaodan</br> Cheung Kong School of Journalism and Communication. Shantou University'
+image: '/images/2009/05/centipede_dance.jpg'
+categories: ['Culture']
 tags: ['centipede', 'custom', 'dance']
 ---
+<!-- Done -->
 
-Journalist: Catherine Lee and Zhang Xiaodan
+_Written by Catherine Lee and Zhang Xiaodan_
 
-Photos and video are offered by Chenghai Photography Institute
-
-Video:Centipede Dance
+<iframe frameborder="0" width="90%" height="450" src="https://v.qq.com/txp/iframe/player.html?vid=f030892e0w2" allowFullScreen="true"></iframe>
 
 A man leads the centipede with a golden ball, like a conductor directing an orchestra. Wherever the ball moves, a twenty-two meter long centipede starts to dance. Raising its sharp head, twisting and moving its flexible body forward rapidly, the lifelike myriapod seems as vivid as the real one.
 
 Originating in Ximen town, Centipede Dance is the most famous dance among those special dances in Chenghai district, Shantou, namely Double Dragon Dance and Lobster Dance, which are dubbed by local people as "The aero-amphibious dances". The Centipede Dance applied for the National Intangible Cultural Heritage in 2004, then finally successfully selected into it in 2008.
 
 The twenty-two-meter long "Centipede", is made by iron, bamboo and cloth, composed of twelve sections. In the traditional scale, each articular sclerate needs at least five people to hold and manipulate. Besides, there is a group of participants playing gongs and drums. Normally speaking, totally more than a hundred participants needed each time in tradition.
-
-![Capture](/images/2016/02/Capture.png)
 
 The centipede is  the star of a traditional dance, the Centipede Dance, only performed on special days. 16th, February every leap year is one of the biggest ceremonies. When the traditional "Divinities Contest" is held, the "centipede" will parade along the main street of the town. Whenever and wherever it appears, there will be a big crowd yelling and cheering excitedly.
 
@@ -47,7 +44,7 @@ Having no plan to teach the next generation, Chen Xishun prefers to let whoever 
 
 **A Centipede Dance**
 
-[![the centipede dance](/images/2016/02/742a2d4d96ccb43d94e5619d42485610.jpg)](http://www.ctps.cn/photonet/product.asp?proid=1806914)photo from CTPS.cn
+![Myshantou - the centipede dance](/images/2009/05/centipede_dance.jpg)
 
 Centipede dance, which is long about twenty-second meters. It is separated for three parts: head, body and tail. The head of the centipede looks like the lion's head. There is a pair of sharp teeth in both sides of the mouth. Its body is combined by twenty-eight hard and soft clothes, which makes it to move flexibly. And some lamps and candles and fireworks equipment are hung inside its body. The tail is in the shape of scissors. When the Centipede Dance begins to show, one person holds a colorful ball leading way and fifteen persons hiding in the abdomen of the centipede. The fifteen men should stoop and bend the knees and they must use "Ding zi Ma", "bow step", "Guan yin zuo lian" (different kinds of horse stances) and other martial art actions to control the big centipede.
 

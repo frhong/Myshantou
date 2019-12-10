@@ -6,6 +6,7 @@ image: '/images/2017/04/Shantou-University-Tech-College_1_Myshantou.jpeg'
 categories: ['Feature']
 tags: ['Education', 'Israeli', 'University']
 ---
+<!-- Done -->
 
 ![Shimon Peres, 92-year-old former Prime Minister of Israel, left of center space between cornerstones, and 87-year-old Li Ka Shing, right of center space between cornerstones, and a number of Chinese officials and Israeli administrators symbolically shovel dirt at the Guangdong-Technion construction site to launch the project.](/images/2017/04/Shantou-University-Tech-College_1_Myshantou.jpeg)
 
