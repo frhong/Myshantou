@@ -1,25 +1,23 @@
 ---
 layout: post
 title: 'The Craftsmen of Xiao Gong Yuan (Little Garden)'
-author: 'Cheung Kong School of Journalism and Communication'
+author: 'This story was written by Chair. Photos by Winner. </br>
+Students from Cheung Kong School of Journalism and Communication, Shantou University'
 image: '/images/2017/04/XiaoGongYuan_1.jpeg'
 categories: ['Neighborhood Beat']
 tags: ['Old Town', 'XiaoGongYuan']
 ---
 
- 
+_Written by Chair. Photos by Winner_
 
-![Sanding knitting needles in the final step of their preparation. Photo: Winner](/images/2017/04/XiaoGongYuan_1.jpeg)
-
-_Written by Chair | Photos by Winner_
-
-Xiaogongyuan (小公园), the “Little Park,” built in 1930s, is an important cultural and historical area of Shantou. The district had a seven-floor department store, more than 100 stores, and several foreign consulates in its heyday. The prosperous place also attracted many craftsmen to make a living there; it was full of artisans and hands-on laborers in the past — those who mend umbrellas, shoes, razors and many others. As time went by Xiaogongyuan became more and more decrepit.
+Xiaogongyuan (小公园), the "Little Park", built in 1930s, is an important cultural and historical area of Shantou. The district had a seven-floor department store, more than 100 stores, and several foreign consulates in its heyday. The prosperous place also attracted many craftsmen to make a living there; it was full of artisans and hands-on laborers in the past — those who mend umbrellas, shoes, razors and many others. As time went by Xiaogongyuan became more and more decrepit.
 
 Renovation plans for the area have fallen into a start-stop-restart cycle in the last decade due to insufficient funds from investors. Nowadays, more and more old vocations are vanishing as Shantou modernizes. Perhaps the craftsmen pictured here will be the last people to practice their craftsmanship in traditional ways on the “Little Park” street corners.
 
-![](/images/2017/04/XiaoGongYuan_Old_Man_2.jpeg)
+![Sanding knitting needles in the final step of their preparation. Photo: Winner](/images/2017/04/XiaoGongYuan_Old_Man_2.jpeg)
 
 ![Gao Banxiong working on knitting needles. Photo: Winner](/images/2017/04/XiaoGongYuan_Old_Man_1.jpeg)
+
 
 At a corner in the area, 17 Minzu Street, Gao Banxiong, a 69-year-old-man, is making needles for knitting. He previously worked in a soy sauce factory. Making needles is a second career for him. He earns about 500 RMB, roughly $80 U.S., per month from it.
 
