@@ -1,15 +1,13 @@
 ---
 layout: post
 title: '"Cold Violence" Comes out of the Home, into Public Discussion'
-author: 'Shirley'
-image: '/images/2016/03/1351273614_31384.jpg'
-categories: ['Health & Environment', 'latest_stories', '未分类']
+author: 'Shirley Xue </br> Cheung Kong School of Journalism and Communication. Shantou University'
+image: '/images/2009/05/couple-cold.jpg'
+categories: ['Health & Environment']
 tags: ['Cold Violence', 'domestic abuse', 'feminism']
 ---
-
-by Shirley Xue
-
-[![cold violence](/images/2016/03/1351273614_31384.jpg)](http://www.mama.cn/news/art/20121027/321524.html)photo from mama.cn
+<!-- Done -->
+_Written by Shirley Xue_
 
 When it comes to domestic abuse, a common image is someone beaten with blood running on the body comes to mind.
 
@@ -22,6 +20,8 @@ This is more than a simple conflict between a couple, it is a new kind of home v
 Chen, in her late thirties, is a female lawyer in Shantou who has helped dozens of women to deal with home violence in her 15 year career as an attorney. The Legal Aid Center for which she works, a low cost legal aid service, has received more than 100 cases in total; 70% of which are concerned with women who have suffered domestic abuse.
 
 Chen, a graduate of Zhongshan University, passed up opportunities to work in Shenzhen and Guangzhou to champion causes of social justice in Shantou. She has worked to provide safe places to stay for women -- many of whom are migrants married to local men -- who face domestic violence.
+
+[![cold violence](/images/2009/05/couple-cold.jpg)](https://www.pexels.com/photo/bench-nature-love-people-50592/)
 
 Chen says that cold violence can do as much damage -- or more -- than physical abuse because it is not punishable by law.
 

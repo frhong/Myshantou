@@ -7,7 +7,6 @@ categories: ['Culture']
 tags: ['centipede', 'custom', 'dance']
 ---
 <!-- Done -->
-
 _Written by Catherine Lee and Zhang Xiaodan_
 
 <iframe frameborder="0" width="90%" height="450" src="https://v.qq.com/txp/iframe/player.html?vid=f030892e0w2" allowFullScreen="true"></iframe>

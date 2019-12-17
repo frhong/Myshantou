@@ -7,7 +7,7 @@ image: '/images/2017/04/XiaoGongYuan_1.jpeg'
 categories: ['Neighborhood Beat']
 tags: ['Old Town', 'XiaoGongYuan']
 ---
-
+<!-- Done -->
 _Written by Chair. Photos by Winner_
 
 Xiaogongyuan (小公园), the "Little Park", built in 1930s, is an important cultural and historical area of Shantou. The district had a seven-floor department store, more than 100 stores, and several foreign consulates in its heyday. The prosperous place also attracted many craftsmen to make a living there; it was full of artisans and hands-on laborers in the past — those who mend umbrellas, shoes, razors and many others. As time went by Xiaogongyuan became more and more decrepit.

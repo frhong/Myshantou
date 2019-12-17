@@ -3,7 +3,7 @@ layout: post
 title: 'Steam Car Washing Brings Hope'
 author: 'Bao Chengrong Kate'
 image: '/images/2016/03/F936D65C-4806-4F9A-B5FA-7FE0E8284FCC.png'
-categories: ['cover story', 'Health & Environment', 'Issue Five', '未分类']
+categories: [Health & Environment']
 tags: ['clean energy', 'steam car washing', 'water saving']
 ---
 

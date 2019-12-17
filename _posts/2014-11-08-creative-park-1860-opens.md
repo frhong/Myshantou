@@ -1,19 +1,19 @@
 ---
 layout: post
 title: 'Creative Park 1860 Opens'
-author: 'Cheung Kong School of Journalism and Communication'
+author: 'Daisy (Jialing Xie) & Yvonneva (Qixin Li) </br> Cheung Kong School of Journalism and Communication. Shantou University'
 image: '/images/2017/04/DSC_0808-1024x687.jpg'
 categories: ['Culture']
 tags: ['Arts', 'cultural', 'Old Town']
 ---
-
-![Creative Park - Shantou 1860](/images/2017/04/DSC_0808-1024x687.jpg)
-
+<!-- Done -->
 _Written by Daisy (Jialing Xie) and Yvonneva (Qixin Li)_
 
 With hundreds of flags flapping on the both sides of Xidi Road, cars and motorcycles parked in front of four brick walls scrawled with 1,8,6,0 on each wall: After nearly 11 months of construction, the first cultural creative park in eastern Guangdong — Shantou 1860 Creative Park — opened to the public on 12 Oct.
 
 The opening ceremony of the park was accompanied by the first cultural creative festival in eastern Guangdong, its theme being “潮文化·创意潮”, referring to both “Chaoshan culture” and “wave of creativity.” (潮 can represent both “Chaoshan” and “tendency” or “wave” in Chinese.) “1860” refers to the year that Shantou and a number of other ports around China were forcibly opened to foreign trade following the Second Opium War.
+
+![Creative Park - Shantou 1860](/images/2017/04/DSC_0808-1024x687.jpg)
 
 Creative Park 1860 is located on the edge of Xiao Gongyuan, the Little Park, Shantou’s old historical section, and near Haibin Lu, Shantou’s harbor-side road, which is also currently under construction to create a revitalized seaside area and marina. While plans for the renovation and development of Xiao Gongyuan have existed for years, “1860” is the first tangible evidence of creative development in the city’s old section.
 

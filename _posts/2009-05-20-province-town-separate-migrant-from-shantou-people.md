@@ -1,21 +1,19 @@
 ---
 layout: post
 title: '"Province Towns" Separate Migrants from Shantou People'
-author: 'Shirley'
+author: 'Shirley </br> Cheung Kong School of Journalism and Communication. Shantou University'
 image: '/images/2016/02/3045174242_5a6789eea5_b.jpg'
-categories: ['Neighborhood Beat', '未分类']
+categories: ['Neighborhood Beat']
 tags: ['development', 'Migrant', 'social issue']
 ---
-
-[![town-province](/images/2016/02/3045174242_5a6789eea5_b.jpg)](https://www.flickr.com/photos/justaslice/3045174242/in/photolist-5D6jdb-fdbAAy-5CYmgu-9qRaGo-8jDLwm-8qvfjQ-8ur37b-9qRaGw-8qs78i-8iQM2r-9qRaGq-8ur373-9xXEky-5Shsy-5ShqQ-5Sgg3-5SgpP-5Sgvv-5Shwb-5Sh85-5SheW-5UZ66-5Shmw-5Sgqy-5SgAZ-5Sgp2-5Sgrn-5Shaz-5Sgv3-5Sh6h-5ShkH-5Shtj-5SgPD-5ShoX-5Sgyp-5ShnY-5ShtX-5ShuQ-5Sh9h-5Shce-5ShfD-5Shq2-5Shjk-5SgzQ-9iThEf-5UZ65-5ShrV-5SgwM-5Sgo8-83qxaY)
-
-photo from flickr.com
-
+<!-- Done -->
 Ten o'clock is the busiest time for the old market in Tuopu every day, when you should speak loudly in order to make yourself be heard in two meters. It's very hard to know what others are saying in this place where crowds of people are selling and bargaining. However that's just for the left side where local residents live.
 
 For the right side which is not near the busy road, it is so silent that everything seems still in a deep sleep, an anomaly in a country where boisterous street life is the norm. Most residents in the right side are migrant workers from Anhui, Guizhou and Jiangxi who go to work at five o'clock in the morning and come home late in the evening.
 
 "This place is almost empty at the daytime. It's hard to find a person to talk to," said Zhang Lixia, an Anhui woman who resided in the right side of this Old Market in Tuopu for at least four years."We don't like blending with local people. Also, though there are many migrant workers in this small place. Often those from the same province live together," added Zhang.
+
+[![town-province](/images/2016/02/3045174242_5a6789eea5_b.jpg)](https://www.flickr.com/photos/justaslice/3045174242/in/photolist-5D6jdb-fdbAAy-5CYmgu-9qRaGo-8jDLwm-8qvfjQ-8ur37b-9qRaGw-8qs78i-8iQM2r-9qRaGq-8ur373-9xXEky-5Shsy-5ShqQ-5Sgg3-5SgpP-5Sgvv-5Shwb-5Sh85-5SheW-5UZ66-5Shmw-5Sgqy-5SgAZ-5Sgp2-5Sgrn-5Shaz-5Sgv3-5Sh6h-5ShkH-5Shtj-5SgPD-5ShoX-5Sgyp-5ShnY-5ShtX-5ShuQ-5Sh9h-5Shce-5ShfD-5Shq2-5Shjk-5SgzQ-9iThEf-5UZ65-5ShrV-5SgwM-5Sgo8-83qxaY)
 
 Zhang's neighborhood in Tuopu could be called "Anhui town," due to the high number of Anhui residents who live there. Similar to Chinatowns in foreign countries, migrant workers like Zhang often live in "province towns," areas of the city where they live with relatives or people from the same province. They use their own dialect not standard Chinese, play and eat with people from the same province.
 

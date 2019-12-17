@@ -1,19 +1,19 @@
 ---
 layout: post
 title: 'Matsu, Goddess of the Sea, and her Island Shrine'
-author: 'amber'
+author: 'Amber </br> Cheung Kong School of Journalism and Communication. Shantou University'
 image: '/images/2016/02/Matsu4-Worshipping-Woman.jpg'
 categories: ['Culture']
 tags: ['Matsu', 'religion', 'shrine']
 ---
-
-By: Amber Riko Jimmy
+<!-- Done -->
+_Written by Amber Riko Jimmy_
 
 The woman sang and raised her arms while walking around in a circle outside the temple. In front of her was a small altar with plates of fruits and meat on it. No one could understand her words. People stopped and stared, then went upstairs and went into the entrance of the temple. The woman was not just worshiping but actually being taken over by her object of worship: Matsu, goddess of the sea.
 
-![Matsu-Worshipping Woman](/images/2016/02/Matsu4-Worshipping-Woman.jpg)
-
 "She is possessed by a god", Xu Yunxin, 60, chief director of Council of Tianhou Temple said.
+
+![Matsu-Worshipping Woman](/images/2016/02/Matsu4-Worshipping-Woman.jpg)
 
 Having worked in the temple council since 2006, Xu has met many people like the unknown woman. Xu said that the worshipping woman was not unique; followers of Matsu come and visit their god regularly.
 
