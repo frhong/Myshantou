@@ -21,7 +21,7 @@ paginate_path: '/page:num/'
 tag_page_dir: tag
 tag_page_layout: tag_page
 tag_permalink_style: pretty
-destination: docs
+
 # 文章配置
 permalink: /:title.html
 kramdown:
@@ -39,7 +39,12 @@ menu:
   - title: RSS
     url: /rss.xml
 
+# 评论开关
+disqus: true
+disqus_short_name: myshantou
+
 # 构建配置，勿动！！！
+destination: docs
 plugins:
   - jekyll-paginate
   - jekyll/tagging
@@ -49,6 +54,3 @@ exclude:
   - LICENSE
   - Gemfile
   - Gemfile.lock
-  - bin_deploy.bat
-  - bin_install.bat
-  - bin_start.bat
