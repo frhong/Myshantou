@@ -11,7 +11,8 @@ tags: ['Construction', 'Shopping']
 In the Wal-Mart of Nanguo Shopping Mall, carts were filled with commodities. But they were being pushed towards the warehouse instead of the checkout counters, and by staff instead of customers. A bulletin posted at the entrance of the store illustrated what was happening, “Wal-Mart will close on the expiration date of its contract — December 7th, 2015.” Several days before its official closure, most goods were unavailable at the store.
 
 ![The staff was taking an account of inventory and removing it from the shelves. Photo: Well Tan](/images/2015/12/nanguo-mall-inside.png)
-*The staff was taking an account of inventory and removing it from the shelves. Photo: Well Tan*
+*The staff was taking an account of inventory and removing it from the shelves.
+Photo: Well Tan*
 
 With the closure of the Wal-Mart, Nanguo Shopping Mall, which has been in Shantou for 15 years, is about to end its mission. China Resources Land Limited, a development company, spent 1.57 billion RMB on the land and is going to build a new urban complex, MIXC, on the original site to replace Nanguo Shopping Mall.
 
@@ -42,4 +43,5 @@ Zhao Xiaoyun, a high school student, said, “I often browsed here and purchased
 MIXC is expected to open in 2018, according to the CRL. Shantou government assumed that the new MIXC will contribute approximately 250 million yuan for taxation and provide over 5,000 jobss, according to its official website. Xu Kai, the vice mayor in Shantou, said in the cornerstone laying ceremony, “MIXC is of great importance for Shantou to enhance the development of a modern service industry as well as to promote the city quality.”
 
 On a more popular level, some waxed nostalgic about the departure of the old Nanguo shopping center.
+
 A Chaoshan rapper, Wang Wei composed a piece of music and made a music video to commemorate the period people spent in Nanguo Shopping Mall. The lyrics went along with a steady beat, “When I walk along Jinhuan and Changping roads, I have a look at Nanguo Shopping Mall several times. Before long, it will become our memory, and disappear from our life……”

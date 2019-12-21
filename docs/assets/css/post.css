@@ -18,10 +18,10 @@
 }
 
 .post img + em {
-  font-size: 13px;
+  font-size: 15px;
   display: block;
   text-align: center;
-  margin-top: -13px;
+  margin-top: -20px;
   color: #666666;
 }
 
