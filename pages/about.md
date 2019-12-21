@@ -1,30 +1,38 @@
 ---
 layout: post
-title: About
-image: '/assets/img/default_banner.jpg'
+title: About Myshantou.net
+image: '/images/pages/about.jpg'
 ---
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+A city should have its place on the web to share its stories. Well, this one is for Shantou - an southern city with rich culture and history, delicious local cuisine and interesting people.
 
-Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.
+## The story of Project MyShantou
 
-##### Todo
+In the summer of 2005, I was back Shantou for school holiday. After spending a few years in the UK, I started to wonder how my hometown was perceived in the World Wide Web. The result pages in Google was disappointed. Other than a few official sites from the local government and a couple of posts from the tourists, useful information is minimum.
 
-Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.
+“We can do better than this?” I thought. The next thing I did was to get the domain myShantou.net and a couple of tech setup, a blog was up running.
 
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
-   Donec nibh massa, rutrum a sollicitudin eu,
-   lacinia in lorem.
+I teamed with with my friend Maggie who was teaching English at a local school. She is from England and was kind enough to document parts of the daily life here.
 
-##### Graphic design
+From zero to one was easy. As search engines clawed more information, we started to receive emails from English visitors who was planning to visit the city. More interestingly, second or third generation [Teochew][teochew] who were planning root-seeking tour to find their ancestors’ memories.
 
-> Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. - George Santayana
+It was encouraging to see our work was meaningful. The local TV station even featured a news coverage on the us.
 
-Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.
+Later when Maggie left the city, I was introduced to John - a professor at [Cheung Kong School of Journalism and Communication][school], Shantou University. Again, he was kind enough to continue Maggie’s work and write about what’s happening in the city. He and his students have done some remarkable work. Most of the contents were written by John and his students. There was even [one piece][opera] that was contracted and featured in the [printed magazine][print] of Singapore’s [JetStar airline][jetstar]!
 
-![alt](https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=1348aea714b9493fa61a09a8c01113e6)
+Project myShantou (as I like to call it) is maintained purely by volunteers like John and me. Therefore you will see an inconsistency of posting timeline. This is normal and expected. With the limited effort we can put in, we would like interesting stories to be told, and meaningful developments to be documented about the city.
 
-Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.
+We do welcome contributors and supports if you have any ideas to make this work better, or even just to share your story in Shantou. [Click here][click] to contact me.
 
-Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.
+
+_[Richard Hong][richard]_
+_December 2019_
+
+
+[teochew]: https://en.wikipedia.org/wiki/Teochew_people
+[jetstar]: https://www.jetstar.com/
+[opera]: /the-girls-study-male-character-in-chao-opera.html
+[richard]: https://richardhong.com
+[school]: http://media.stu.edu.cn/
+[print]: /images/pages/jetstar_print.jpg
+[click]: mailto:fr.hong+myshantou@gmail.com

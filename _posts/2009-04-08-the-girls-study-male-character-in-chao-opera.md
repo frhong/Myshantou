@@ -1,21 +1,17 @@
 ---
 layout: post
 title: 'Young Women Take On a New Character in Chao Opera'
-author: 'Catherine'
-image: '/images/2016/03/chao-opera.jpg'
-categories: ['Culture', '未分类']
-tags: ['Arts', 'Chao Opera', 'Entertainment&Culture', 'Feature story']
+author: 'Catherine & Zanith </br> Cheung Kong School of Journalism and Communication. Shantou University'
+image: '/images/2016/03/f1.jpg'
+categories: ['Culture']
+tags: ['Arts', 'Chao Opera', 'Entertainment', 'Culture', 'Feature story']
 ---
 
-Article written by Catherine
+_Written by Catherine, Photo by Zanith_
 
-[![chao opera](/images/2016/03/chao-opera.jpg)](http://www.chaoting.net/NewsDetail.aspx?iNewsId=127)
 
-photo from chaoting.net
 
-![training chao opera](/images/2016/03/f1.jpg)
-
-The girl is practising in Tanzi course.                        Photo taken by Zanith
+The girl is practising in Tanzi course.
 
 "One! Two! Three! Four!" A man's deep voice started to echo as usual at half past two on a sleepy Thursday afternoon. Zheng Yuezhi and Zeng Chuxuan hurried forward to the training classroom.
 
@@ -26,6 +22,13 @@ Playing the opposite gender in Chinese opera is not news. But among young people
 For most girls, playing male characters is a "part time job" ; however, Zheng Yuezhi and Zeng Chuxuan are specializing in Sheng, an unusual field of study for such young women.
 
 There are many characters in Chao Opera. It has several standard characters played in each performance: Dan, Sheng, Jing and Chou. Dan is beautiful girl classified into several roles, for example: Guimen Dan, Hang Dan, Zheng Dan and Huashan. Sheng is the name for a kind of male character, which is divided into Wen Sheng and Wu Sheng. Wen Sheng is handsome and knowledgeable while Wu Sheng is brave and good at fighting. Up to now , actresses playing Sheng character have focused on Wen Sheng. But they still need to learn whirling, jumping and fighting.
+
+---
+### Photo Video
+
+<iframe frameborder="0" width="90%" height="450" src="http://player.youku.com/embed/XNDU2NTM3MTIw" allowFullScreen="true"></iframe>
+
+---
 
 The Chao Opera is a characteristic ancient local opera. Based on the Yellow River which separates China into northern part and southern part, the various China folk opera types are divided into northern type and southern type. Beijing Opera is one of the northern types, while Chao Opera is a member of southern types. As a brand of Southern drama, Chao Opera flourished in the period around the end of Yuan Dynasty and the beginning of Ming Dynasty, at least 722 years ago. The appearance of this style of drama put Chinese drama into the same league as some of the great drama systems of the world, such as those in India and Greece.
 

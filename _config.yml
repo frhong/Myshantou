@@ -30,10 +30,12 @@ kramdown:
 
 # 菜单配置
 menu:
+  - title: Home
+    url: /
+  - title: About Myshantou
+    url: /pages/about.html
   - title: Category
     url: /pages/category.html
-  - title: About
-    url: /pages/about.html
   - title: RSS
     url: /rss.xml
 
