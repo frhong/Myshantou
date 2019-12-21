@@ -16,6 +16,14 @@
   background-color: #ecf0f1;
   margin: 0 0 32px;
 }
+
+.post img + em
+  {
+  font-size: 13px;
+  top: -10px;
+  text-align: center;
+}
+
 .post__header {
   margin-bottom: 13px;
   text-align: center;
