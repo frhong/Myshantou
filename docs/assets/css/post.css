@@ -17,11 +17,12 @@
   margin: 0 0 32px;
 }
 
-.post img + em
-  {
+.post img + em {
   font-size: 13px;
-  top: -10px;
+  display: block;
   text-align: center;
+  margin-top: -13px;
+  color: #666666;
 }
 
 .post__header {
