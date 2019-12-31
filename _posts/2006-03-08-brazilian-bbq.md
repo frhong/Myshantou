@@ -3,7 +3,7 @@ layout: post
 title: 'Brazilian bbq'
 author: 'Maggie Ad'
 image: ''
-categories: ['Eating in ST', '未分类']
+categories: ['Eating in ST']
 tags: []
 ---
 
