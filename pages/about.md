@@ -18,7 +18,7 @@ From zero to one was easy. As search engines clawed more information, we started
 
 As the community grew, it was encouraging to see our work was meaningful. The local news station even featured a piece on the us.
 
-Later when Maggie left the city, I was introduced to John Noon - a professor at [Cheung Kong School of Journalism and Communication][school], Shantou University. Again, he was kind enough to continue Maggie’s work and write about what’s happening in the city. He and his students have done some remarkable work. Most of the contents  post 2007 were written by John and his students. There was even [one piece][opera] that was contracted and featured in the [printed magazine][print] of Singapore’s [JetStar airline][jetstar]!
+Later when Maggie left the city, I was introduced to John Noonan - a professor at [Cheung Kong School of Journalism and Communication][school], Shantou University. Again, he was kind enough to continue Maggie’s work and write about what’s happening in the city. He and his students have done some remarkable work. Most of the contents  post 2007 were written by John and his students. There was even [one piece][opera] that was contracted and featured in the [printed magazine][print] of Singapore’s [JetStar airline][jetstar]!
 
 Project MyShantou (as I like to call it) is maintained purely by volunteers like John and me. You may see an inconsistency of posting timeline. This is normal and expected. With the limited effort we can put in, we would like interesting stories to be told, and meaningful developments to be documented about the city.
 
@@ -36,4 +36,5 @@ _December 2019_
 [school]: http://media.stu.edu.cn/
 [print]: /images/pages/jetstar_print.jpg
 [click]: mailto:fr.hong+myshantou@gmail.com
+
 
